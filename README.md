@@ -12,6 +12,9 @@ Hi 👋, I'm PRANAV DESHMUKH<br>A passionate Web developer and Computer Engineer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranav-deshmukh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-deshmukh&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+# Hacktoberfest
+[![An image of @pranavdeshmukh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavdeshmukh)](https://holopin.io/@pranavdeshmukh)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pranav-deshmukh&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
