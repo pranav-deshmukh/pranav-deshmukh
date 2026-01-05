@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm PRANAV DESHMUKH<br>A passionate Web developer and Computer Engineering Student from India
+Hi 👋, I'm PRANAV DESHMUKH<br> and I am a Software guy with a some hardware skills
 
 
 ## 🌐 Socials:
