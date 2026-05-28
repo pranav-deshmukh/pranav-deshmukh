@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm PRANAV DESHMUKH<br> tinkering with software
+Hi 👋, I'm PRANAV DESHMUKH, tinkering with software.
 
 # Hacktoberfest
 [![An image of @pranavdeshmukh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavdeshmukh)](https://holopin.io/@pranavdeshmukh)
